@@ -1,0 +1,16 @@
+# Countdown Timer & Calculator App
+
+## 🚀 Features
+- Start a countdown timer (minutes or seconds)
+- Use a calculator with +, -, *, / operations
+- Logs each calculation to `history.txt`
+
+## 🛠 Technologies
+- Python 3.x
+- Modules: `time`, `threading` (standard)
+
+## 📦 Setup
+Clone or download the repo, then run:
+
+```bash
+python main.py
