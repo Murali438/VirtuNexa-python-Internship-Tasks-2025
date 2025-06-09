@@ -1,0 +1,8 @@
+Feature	Status
+PDF merge/split	✅ Implemented
+Console-based UI	✅ Done
+Error handling	✅ Basic implemented
+Optional GUI (Tkinter)	⏳ Optional
+Optional history with SQLite	⏳ Optional
+Logging	✅ Added
+Reports	⏳ Can be done via SQLite or log export
